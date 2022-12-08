@@ -17,6 +17,6 @@ Materials are under development and subject to change.
 * Sean Kross
 
 ### License
-
+   
 These course materials are available under the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) license (http://www.tldrlegal.com/l/CC-NC-SA). 
 
